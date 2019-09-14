@@ -1,0 +1,77 @@
+﻿/* @import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Nova+Square&display=swap');
+
+#resultado{
+    display: inline;
+    margin-left: 82px;
+    font-family: 'Nova Square', cursive;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#num1, #num2, #operador{
+    padding: 15px;
+    border-radius: 6px;
+    color: #333333;
+    /* background-color: lightgray; */
+    font-family: 'Nova Square', cursive;
+}
+
+#labelNum1, #labelNum2{
+    font-size: 18px;
+    font-family: 'Nova Square', cursive;
+    font-weight: bold;
+    display: block;
+}
+
+#operador{
+    display: block;
+    margin: 20px 20px 20px 70px;
+    font-family: 'Nova Square', cursive;
+}
+
+option{
+    font-family: 'Nova Square', cursive;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 0px 5px 5px 5px;
+    /* padding-top: 5px; */
+}
+
+#buttonCalcula{
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Nova Square', cursive;
+    background-color: #21e71a;
+    border-color: transparent;
+    border-radius: 5px;
+    display: block;
+    margin: 20px 20px 20px 70px;
+    width: 65px;
+}
+
+form{
+    margin-left: 70px;
+    border: 1px solid lightgray;
+    padding: 25px 25px 60px 25px;
+    width: 18%;
+    border-radius: 5px;
+    background-image: url("lego.jpg");
+    background-position-x: 100%;
+    background-position-y: 100%;
+    background-size: 170%;
+    /* background-blend-mode: soft-light; */
+}
+
+#buttonLimpar{
+    margin: 20px 20px 20px 160px;
+    font-size: 18px;
+    padding: 15px;
+    font-family: 'Nova Square', cursive;
+    font-weight: bold;
+}
+
+
+
+
